@@ -1,3 +1,6 @@
+## First React TODO app
+# Users can add and mark as checked new items
+# There is a calculator that counts the number of LEFT todos and FINISHED todos
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
